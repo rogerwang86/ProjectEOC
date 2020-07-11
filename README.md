@@ -18,3 +18,7 @@ This mod can let you recreate Shuttle-C, a kind of expendable launch vehicle bac
 **Recommended mod：**
 
 + HabTech2
+
++ Bluedog Design Bureau
+
++ Restock
